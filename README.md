@@ -19,7 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Second-Task
 DevJoint Second Task
->>>>>>> 0b98a249fa02b9cadaad2e43185b6ec96c792dbf
 ---
 
 ## 📝 Notes & Project Explanation
